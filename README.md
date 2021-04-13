@@ -9,3 +9,4 @@ Purpose of the Project
 Game play
 1. 2 members needed
 2. Winning score dynamic
+3. Fixed score and holding score 2 types
