@@ -10,3 +10,5 @@ Game play
 1. 2 members needed
 2. Winning score dynamic
 3. Fixed score and holding score 2 types
+About
+RollDice game it is a Web Application based on real dice game paly with two dice and two players with rolling dice random number dynamic winning score can be easily play.
